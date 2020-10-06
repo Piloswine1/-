@@ -1,3 +1,4 @@
-test.aux
-test.log
-test.synctex.gz
+*.aux
+*.log
+*.synctex.gz
+*.synctex
